@@ -43,7 +43,7 @@ Tenim una col·lecció d'Objectes Restaurant a la ciutat de Nova York, i necessi
 
 10.-Escriu una consulta per trobar els restaurants que estan situats en una longitud inferior a -95.754168.
 
-    db.db.RestauranteNY.find()
+    db.RestauranteNY.find()
 
 11.- Escriu una consulta de MongoDB per a trobar els restaurants que no cuinen menjar 'American ' i tenen algun score superior a 70 i latitud inferior a -65.754168.
 12.- Escriu una consulta per trobar els restaurants que no preparen menjar 'American' i tenen algun score superior a 70 i que, a més, es localitzen en longituds inferiors a -65.754168. Nota: Fes aquesta consulta sense utilitzar operador $and.
